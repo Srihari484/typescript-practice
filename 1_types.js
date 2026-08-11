@@ -1,0 +1,11 @@
+"use strict";
+let username = "JohnDoe";
+let age = 30;
+let isactive = true;
+let empty = null;
+let notassigned = undefined;
+let fruits = ["apple", "banana", "cherry"];
+let numbers = [1, 2, 3, 4, 5];
+let mixed = ["apple", 1, "banana", 2];
+console.log(username, age, isactive, empty, notassigned);
+console.log(fruits, numbers, mixed);
